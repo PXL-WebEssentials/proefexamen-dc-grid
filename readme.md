@@ -23,7 +23,7 @@ Voorzie een navigatiebalk met een logo en vier knoppen.
 - Het logo en de vier knoppen in de navigatiebalk staan gepositioneerd via CSS3 Flexbox.
 - De navigatiebalk is 82,5rem breed en staat horizontaal in het midden van de webpagina. De navigatiebalk heeft rondom 1rem witruimte binnen het element.
 - Het logo staat links in de navigatiebalk, is 5rem breed en heeft boven en onder 1rem witruimte buiten het element.
-- De vier knoppen staan in een ongeordende lijst. De eerste drie knoppen (Over ons, Trainingen en Leren duiken) bevatten linken naar de drie opdrachten van dit examen. De vierde knop (Kalender) bevat een  dummy-link. De linken naar opdracht twee (Trainingen) en opdracht drie (Leren Duiken) moeten, wanneer de bezoekers van de webpagina hierop klikken, openen in een nieuw tabblad. De link naar opdracht 1 (Over ons) en de dummy-link moeten openen in hetzelfde tabblad.
+- De vier knoppen staan in een ongeordende lijst. De eerste drie knoppen (Over ons, Trainingen en Leren duiken) bevatten linken naar de drie opdrachten van dit examen. De vierde knop (Kalender) bevat een dummy-link. De linken naar opdracht twee (Trainingen) en opdracht drie (Leren Duiken) moeten, wanneer de bezoekers van de webpagina hierop klikken, openen in een nieuw tabblad. De link naar opdracht 1 (Over ons) en de dummy-link moeten openen in hetzelfde tabblad.
 - De vier knoppen staan rechts op de navigatiebalk, hebben rondom 1rem witruimte binnen het element en boven en onder 0.5rem witruimte buiten het element. De vier knoppen staan daarnaast ook verticaal gecentreerd in de navigatiebalk.
 - De tekstkleur van de knoppen is #FF0 en er zit geen lijntje onder de tekst van de knoppen. 
 - Wanneer een knop actief is of wanneer de bezoeker met de muis over een knop gaat, moet de tekstkleur #000 worden en de achtergrondkleur #FF0.  
@@ -51,7 +51,7 @@ Voorzie, onder de header, een main met twee secties.
 - De titels van niveau 2 hebben onder 1rem witruimte binnen het element.  
 - De paragrafen in de linkse kolom hebben onder 1,5rem witruimte binnen het element en de paragrafen in de rechtse kolom hebben onder 1rem witruimte binnen het element. 
 - De linkse kolom heeft als achtergrondkleur #FF0 en als tekstkleur #000. De tekst in de linkse kolom heeft tekstuitlijning ‘rechts’. 
-- De rechtse kolom heeft tekstkleur #FFF, op drie letters in de titel van  niveau 1 na. Deze drie letters hebben tekstkleur #FF0. 
+- De rechtse kolom heeft tekstkleur #FFF, op drie letters in de titel van niveau 1 na. Deze drie letters hebben tekstkleur #FF0. 
 
 #### Stap 6 – De footer 
 Voorzie, onder de main, een footer. 
@@ -71,9 +71,9 @@ Voorzie de nodige ‘extra’ opmaak zodat de webpagina zich correct aanpast aan
 	- Moeten de vier knoppen in de navigatiebalk onzichtbaar worden en geen plaats meer innemen op de webpagina. 
 	- Moet het logo in de navigatiebalk een horizontale uitlijning ‘center’ krijgen. 
 	
-<img src="printscreens/opdracht1_tablet.png" width="75%">
+<img alt="tablet" src="printscreens/opdracht1_tablet.png" width="75%">
 
-<img src="printscreens/opdracht1_smartphone.png" width="50%">
+<img alt="mobile" src="printscreens/opdracht1_smartphone.png" width="50%">
 
 ## Opdracht 2 (22 punten)
 
@@ -88,7 +88,7 @@ Open de bestanden ‘opdr2.html’ en ‘opdr2.css’ in Webstorm. Volg ondersta
 
 #### Stap 2 – CSS Reboot en algemene opmaak 
 - De HTML-elementen hebben standaard geen witruimte binnen of buiten het element. 
-- De volledige webpagina bevat de lettertypes ‘Verdana’, ‘Arial’ en  ‘sans-serif’. 
+- De volledige webpagina bevat de lettertypes ‘Verdana’, ‘Arial’ en ‘sans-serif’. 
 - De randen en de witruimtes binnen de elementen worden meegerekend in de eventuele ingestelde breedtes van de HTML-elementen. 
 - De achtergrond van de webpagina is #000.
 
@@ -115,7 +115,7 @@ Open de bestanden ‘opdr3.html’ en ‘opdr3.css’ in Webstorm. Volg ondersta
 
 **Voor deze opdracht mag je geen tabellen gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd! **
 
-**In  deze opdracht mag je zelf de manier van positioneren (CSS3 Flexbox of Bootstrap-grid) kiezen.**
+**In deze opdracht mag je zelf de manier van positioneren (CSS3 Flexbox of Bootstrap-grid) kiezen.**
 
 ![desktop](/printscreens/opdracht3.png)
 
@@ -124,7 +124,7 @@ Open de bestanden ‘opdr3.html’ en ‘opdr3.css’ in Webstorm. Volg ondersta
 
 #### Stap 2 – CSS Reboot en algemene opmaak 
 - De HTML-elementen hebben standaard geen witruimte binnen of buiten het element.    
-- De volledige webpagina bevat de lettertypes ‘Verdana’, ‘Arial’ en  ‘sans-serif’. 
+- De volledige webpagina bevat de lettertypes ‘Verdana’, ‘Arial’ en ‘sans-serif’. 
 - De randen en de witruimtes binnen de elementen worden meegerekend in de eventuele ingestelde breedtes van de HTML-elementen. 
 - De achtergrond van de webpagina is #000.  
 
