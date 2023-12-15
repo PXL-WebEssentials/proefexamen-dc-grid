@@ -5,7 +5,7 @@ Met Bootstrap Grid
 
 Open de bestanden ‘opdr1.html’ en ‘opdr1.css’ in Webstorm. Volg onderstaande stappen en bekijk aandachtig de screenshots om te komen tot het nodige eindresultaat. 
 
-**Voor deze opdracht mag je geen tabellen gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd!** 
+<p style="color:red;font-weight:bold;">Voor deze opdracht mag je geen tabellen gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd!</p>.
 
 ![desktop](/printscreens/opdracht1_desktop.png)
 
@@ -79,7 +79,8 @@ Voorzie de nodige ‘extra’ opmaak zodat de webpagina zich correct aanpast aan
 
 Open de bestanden ‘opdr2.html’ en ‘opdr2.css’ in Webstorm. Volg onderstaande stappen en bekijk aandachtig de screenshots om te komen tot het nodige eindresultaat. 
 
-**Voor deze opdracht mag je geen classes of id’s gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd!**
+<p style="color:red;font-weight:bold;">Voor deze opdracht mag je geen classes of id’s gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd!</p>.
+
 
 ![desktop](/printscreens/opdracht2.png)
 
@@ -113,9 +114,11 @@ Voorzie in de main een tabel met een thead, tbody en tfoot.
 ## Opdracht 3 (22 punten) 
 Open de bestanden ‘opdr3.html’ en ‘opdr3.css’ in Webstorm. Volg onderstaande stappen en bekijk aandachtig de screenshots om te komen tot het nodige eindresultaat. 
 
-**Voor deze opdracht mag je geen tabellen gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd! **
+<p style="color:red;font-weight: bold">
+Voor deze opdracht mag je geen tabellen gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd!
+</p>
 
-**In deze opdracht mag je zelf de manier van positioneren (CSS3 Flexbox of Bootstrap-grid) kiezen.**
+**In deze opdracht mag je zelf de manier van positioneren (CSS3 Flexbox) kiezen.**
 
 ![desktop](/printscreens/opdracht3.png)
 
@@ -140,7 +143,7 @@ Voorzie een contactformulier met verschillende type invoervelden, labels en knop
 	- Duiken (standaard geselecteerd) 
 - De invoervelden ‘Volledige naam’, ‘E-mailadres’ en ‘Extra informatie’ bevatten tijdelijke teksten die de bezoekers moeten helpen bij het invullen. 
 - Bij het klikken op de knop ‘Proefles aanvragen’ opent de standaard mailcliënt op de computer. De mail met de ingevulde gegevens wordt opgemaakt voor ontvanger ‘info@duikclub-dc.be’ en heeft als onderwerp ‘Contactformulier’. Alle ingevulde gegevens staan in de mail onder elkaar als platte tekst.
-
+  ![desktop](/printscreens/mail.png)
 
 #### Stap 4 – De opmaak van het contactformulier 
 - Het formulier staat in de main van de webpagina, is 50rem breed en heeft boven en onder 2rem witruimte buiten het element. 
