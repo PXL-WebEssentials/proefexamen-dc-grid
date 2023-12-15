@@ -1,0 +1,4 @@
+.gitignore 	//Het bestand ‘.gitignore’ zelf*
+.[oa] 		//Bestanden die eindigen op ‘.o’ of ‘.a’
+*~ 		//Bestanden die eindigen met een tilde
+.idea 		//Een map die Webstorm automatisch aanmaakt

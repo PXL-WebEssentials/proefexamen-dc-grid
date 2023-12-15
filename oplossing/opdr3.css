@@ -1,0 +1,28 @@
+/* NAAM STUDENT: */
+
+/* SCHRIJF HIER DE CSS RESET EN ALGEMENE OPMAAK */
+
+
+
+
+/* START CSS, VERANDER HIER NIETS AAN! */
+header {
+    width: 50rem;
+    margin: 2rem auto;
+    color: #fff;
+}
+header p {
+    padding: 1rem 0;
+    font-style: italic;
+    color: #ff0;
+}
+main {
+      width: 50rem;
+      margin: 0 auto;
+      color: #fff;
+  }
+form {
+    color-scheme: dark;
+}
+
+/* SCHRIJF HIER DE CSS VOOR HET FORMULIER */
