@@ -4,7 +4,8 @@ Met Bootstrap Grid
 ## Opdracht 1 (56 punten)
 
 Open de bestanden ‘opdr1.html’ en ‘opdr1.css’ in Webstorm. Volg onderstaande stappen en bekijk aandachtig de screenshots om te komen tot het nodige eindresultaat. 
-Voor deze opdracht mag je geen tabellen gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd! 
+
+**Voor deze opdracht mag je geen tabellen gebruiken, indien je dit toch doet, worden de punten van deze opdracht gehalveerd!** 
 
 ![desktop](/printscreens/opdracht1_desktop.png)
 
@@ -70,9 +71,9 @@ Voorzie de nodige ‘extra’ opmaak zodat de webpagina zich correct aanpast aan
 	- Moeten de vier knoppen in de navigatiebalk onzichtbaar worden en geen plaats meer innemen op de webpagina. 
 	- Moet het logo in de navigatiebalk een horizontale uitlijning ‘center’ krijgen. 
 	
-![desktop](/printscreens/opdracht1_tablet.png)
+<img src="printscreens/opdracht1_tablet.png" width="75%">
 
-![desktop](/printscreens/opdracht1_smartphone.png)
+<img src="printscreens/opdracht1_smartphone.png" width="50%">
 
 ## Opdracht 2 (22 punten)
 
