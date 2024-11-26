@@ -39,7 +39,7 @@ Voorzie, onder de navigatiebalk, een header.
 
 #### Stap 5 – De main 
 Voorzie, onder de header, een main met twee secties.    
-- De volledige main heeft een positionering én de aanduiding van de witruimtes binnen en buiten de elementen via Bootstrap-classes.
+- De positionering in de volledige main dient te gebeuren met CSS Grid.
 - In de main staan twee kolommen in een rij en container. Deze twee kolommen nemen samen de volledige breedte van de webpagina in vanaf een schermbreedte < 1200px. Is de schermbreedte ≥ 1200px, dan heeft de container een vaste breedte met links en rechts witruimte. 
 - De kolommen hebben meerdere breekpunten om de breedtes van de kolommen te voorzien op basis van de schermbreedte. 
 	- Bij een schermbreedte ≥ 1200px is de linkse kolom 3 breed en de rechts kolom 9 breed. 
